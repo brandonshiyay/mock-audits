@@ -3,6 +3,6 @@ A repository for my mock-audit practices. I will update the contests I read and 
 
 # Contents
 
-|Contest|Platform|sloc|
-|---|---|---|
-|[Dinari](/Sherlock/Dinari.md)|Sherlock|575|
+|Contest|Platform|sloc|# of HM Findings|
+|---|---|---|---|
+|[Dinari](/Sherlock/Dinari.md)|Sherlock|575|H(1)M(3)|
