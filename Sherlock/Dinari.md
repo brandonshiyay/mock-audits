@@ -1,3 +1,4 @@
+# Dinari
 ## Repository
 
 https://github.com/sherlock-audit/2023-06-dinari
